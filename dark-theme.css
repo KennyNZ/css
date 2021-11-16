@@ -44,16 +44,16 @@
   background-color: #3d3d3d; }
 
 .bg__theme-color-2 {
-  background-color: rgba(0, 0, 0, 0.9); }
+  background-color: rgba(0, 0, 0, 0.6); }
 
 .bg__theme-color-3 {
-  background-color: rgba(31, 31, 31, 0.8); }
+  background-color: rgba(31, 31, 31, 0.6); }
 
 .bg__theme-color-4 {
-  background-color: rgba(31, 31, 31, 0.98); }
+  background-color: rgba(31, 31, 31, 0.7); }
 
 .bg__theme-color-6 {
-  background-color: rgba(61, 61, 61, 0.9); }
+  background-color: rgba(61, 61, 61, 0.6); }
 
 .bg__theme-color-7 {
   background-color: #1f1f1f; }
@@ -68,7 +68,7 @@
   background-color: white; }
 
 .bg__main-color-1 {
-  background-color: rgba(255, 44, 85, 0.1); }
+  background-color: rgba(255, 44, 85, 0.3); }
 
 .bg__main-color-2 {
   background-color: #3cf799; }
@@ -83,10 +83,10 @@
   background-color: #ff2c55; }
 
 .bg__main-color-7 {
-  background-color: rgba(31, 223, 255, 0.9); }
+  background-color: rgba(31, 223, 255, 0.7); }
 
 .bg__main-color-8 {
-  background-color: rgba(255, 44, 85, 0.9); }
+  background-color: rgba(255, 44, 85, 0.7); }
 
 .bg__transparent {
   background: transparent; }
